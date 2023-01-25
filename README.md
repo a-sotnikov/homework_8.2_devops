@@ -6,14 +6,18 @@
 
 Настройки проекта:
 
+![settings](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task1_config.png)
+  
 Результаты сборки:
 
+![results](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task1_result.png)
 ---
 
 ### Задание 2
 
 > В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
+Настройки:
 ```
 pipeline {
     agent any
@@ -42,12 +46,16 @@ pipeline {
 }
 
 ```
+Результаты:
 
+![results](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task2_result.png)
 ---
 
 ### Задание 3
 
 > В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
+
+Настройка:
 
 ```pipeline {
     agent any
@@ -80,6 +88,11 @@ pipeline {
     }
 }
 ```
+Результаты:
+
+![Results](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task3_result.png)
+
+![Nexus](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task3_nexus.png)
 
 ---
 
@@ -87,7 +100,7 @@ pipeline {
 
 > В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-<https://github.com/a-sotnikov/hw_repo/network>
+Настройка:
 
 ```
 pipeline {
@@ -122,3 +135,8 @@ pipeline {
 }
 
 ```
+Результаты:
+
+![Results](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task4_result.png)
+
+![Nexus](https://github.com/a-sotnikov/homework_8.2_devops/blob/main/task4_nexus.png)
